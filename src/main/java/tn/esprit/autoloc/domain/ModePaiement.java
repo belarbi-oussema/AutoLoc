@@ -1,5 +1,5 @@
 package tn.esprit.autoloc.domain;
 
 public enum ModePaiement {
-    CARTE,ESPECES,VIRMENT
+    CARTE, ESPECES, VIREMENT
 }
